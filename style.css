@@ -1,0 +1,16 @@
+#article-image {
+    width: 500px;
+    height: 400px;
+}
+
+.heading1 {
+    font-size: 48px;
+    color: green (51, 179, 136);
+    font-style: italic;
+}
+
+.article-text {
+    font-size: 18px;
+    color:#82e0ff;
+    font-weight: 700;
+}
